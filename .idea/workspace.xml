@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eba0c27-38fd-4c57-8871-e9e0493e75db" name="Changes" comment="Pablo commit 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="1eba0c27-38fd-4c57-8871-e9e0493e75db" name="Changes" comment="Pablo commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Pablo" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666788658676</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pablo commit">
+      <created>1666793150162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666793150162</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pablo commit">
+      <created>1666793228315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666793228315</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit" />
     <MESSAGE value="Pablo commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pablo commit 1" />
+    <MESSAGE value="Pablo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pablo commit" />
   </component>
 </project>
